@@ -1,3 +1,8 @@
-theme: jekyll-theme-just-the-docs
-title: UCSD Parking Data Analysis
-description: Bookmark this to keep an eye on my project updates!
+title: UCSD Parking Data Research
+description: Parking Availability analysis within Gillman and Hopkins Parking Structures at UCSD.
+theme: just-the-docs
+
+url: https://dsethanvo.github.io/UCSDParkingAnalysis/
+
+aux_links: # remove if you don't want this link to appear on your pages
+  Template Repository: https://github.com/dsEthanVo/UCSDParkingAnalysis
