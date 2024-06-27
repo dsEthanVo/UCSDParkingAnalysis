@@ -7,7 +7,7 @@ url: https://dsethanvo.github.io/UCSDParkingAnalysis/
 nav:
   - title: "Home"
     url: "/"
-  - title: "Data Retrieval and Cleaning"
+  - title: "Collection and Cleaning"
     url: "/data/"
   - title: "Visualization"
     url: "/visualization/"
