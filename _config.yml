@@ -4,5 +4,15 @@ theme: just-the-docs
 
 url: https://dsethanvo.github.io/UCSDParkingAnalysis/
 
-aux_links: # remove if you don't want this link to appear on your pages
+nav:
+  - title: "Home"
+    url: "/"
+  - title: "Data Retrieval and Cleaning"
+    url: "/data/"
+  - title: "Visualization"
+    url: "/visualization/"
+  - title: "Analysis"
+    url: "/analysis/"
+
+aux_links: 
   View on Github: https://github.com/dsEthanVo/UCSDParkingAnalysis
