@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Data Visualizations"
-nav_order: 2
+nav_order: 3
 ---
 
 # Data Visualizations
