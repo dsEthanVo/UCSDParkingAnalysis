@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Data Collection and Cleaning"
+nav_order: 2
+---
+
 # Data Collection and Cleaning
 
 This section contains the data related to parking availability within Gillman and Hopkins Parking Structures at UCSD.
