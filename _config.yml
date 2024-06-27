@@ -8,15 +8,12 @@ nav:
   - title: "Home"
     url: "/"
     nav_order: 1
-    
   - title: "Collection and Cleaning"
     url: "/data/"
     nav_order: 2
-    
   - title: "Visualization"
     url: "/visualization/"
     nav_order: 3
-
   - title: "Analysis"
     url: "/analysis/"
     nav_order: 4
